@@ -1,0 +1,2 @@
+wc stands for word count. Using this function allows you to see the lines, words and characters. 
+You can use wc alone but also with -l which only outputs the number of lines and ignores the words and characters.
